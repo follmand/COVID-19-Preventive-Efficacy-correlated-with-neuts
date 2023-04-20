@@ -7,7 +7,7 @@ The code has been run on R 4.2.2 and requires recent versions of the libraries l
 You can run example_code_for_COVE.r by opening up R and executing the source code for each script in the console. Both examples are self contained and can be run without special instructions once the required libraries are installed. 
 
 
-Session information:
+## Session information
 sessionInfo()
 R version 4.2.2 (2022-10-31)
 Platform: x86_64-apple-darwin17.0 (64-bit)
