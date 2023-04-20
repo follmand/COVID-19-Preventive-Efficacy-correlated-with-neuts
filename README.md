@@ -1,4 +1,4 @@
-# COVID-19-Preventive-Efficacy-correlated-with-neuts
+# COVID-19 preventive efficacy orrelated with neutralizing antibodies
 
 In this repository include two R files, example_code_for_COV-2069.r and example_code_for_COVE.r. The COV-2069 file provides the code used to fit the 3PL model + the antibody prediction from concentration to neutralization titer. The COV file provides the code used to fit the log-linear model and also antibody decay and generates simulated data.
 
